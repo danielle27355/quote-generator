@@ -1,13 +1,13 @@
 #quote-box{
   text-align: center;
   margin-top: 75px;
-  box-shadow: 5px 10pxrgb(92, 92, 92);
 }
 #text{
   font-size: 50px;
   margin: 0px 100px;
   background-color: rgb(177, 177, 177);
   padding: 100px;
+  border-radius: 25px;
 }
 #new-quote{
   background-color: rgb(177, 177, 177);
@@ -17,7 +17,6 @@
   border-color: rgb(177, 177, 177);
   font-size: 25px;
 }
-
 body {
   background: 
     radial-gradient(black 3px, transparent 4px),
