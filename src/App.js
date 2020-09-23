@@ -49,7 +49,7 @@ class App extends Component {
         </div> : ''}
         <button id="new-quote" onClick={this.assignNewQuoteIndex}>Next Quote</button>
 
-        <a id="tweet-quote" href="twitter.com/intent/tweet">Tweet quote</a>
+        {/* <a id="tweet-quote" href="twitter.com/intent/tweet">Tweet quote</a> */}
 
       </div>
     );
